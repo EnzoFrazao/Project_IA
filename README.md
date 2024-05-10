@@ -25,7 +25,11 @@ Versão usada foi o Gemini 1.0 pro.
 
 ## Vantagens
 **Roteiros sob medida: Viaje para qualquer lugar do mundo com um roteiro personalizado e completo, feito sob medida para seus interesses, estilo e orçamento.
+
 **Economia garantida: Economize tempo e dinheiro com a inteligência artificial que encontra os melhores preços e otimiza seu roteiro.
+
 **Experiências autênticas: Descubra lugares incríveis e viva momentos únicos como um local, indo além dos roteiros turísticos tradicionais.
+
 **Tranquilidade e segurança: Viaje sem preocupações com suporte 24/7, roteiro detalhado e dicas de segurança.
+
 **Mais do que um roteiro: Dicas de economia, sugestões de atividades e informações úteis para uma viagem completa e inesquecível.
