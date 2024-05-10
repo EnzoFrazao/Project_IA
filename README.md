@@ -1,6 +1,6 @@
 # Projeto_Imersao_IA
 ## Seja Bem vindo ao Projeto!
-<img src="https://github.com/EnzoFrazao/projeto_Imersao_IA/issues/1#issue-2289776310">
+!https://github.com/EnzoFrazao/projeto_Imersao_IA/issues/1#issue-2289776310
 
 ## Introdução
 O Projeto Roteiro Inteligente usa inteligência artificial para criar roteiros personalizados, completos e com o melhor custo-benefício para qualquer lugar do mundo.
